@@ -21,3 +21,5 @@ cnn_classification/ – CNN-based image classification example using Chest X-ray
 detectron2_segmentation/ – Instance segmentation pipeline using Detectron2 (applied to biomedical imagery or sample annotated masks)
 
 Chest X-ray dataset - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=download 
+
+Signal to Image - https://in.mathworks.com/help/wavelet/ug/classify-time-series-using-wavelet-analysis-and-deep-learning.html 
