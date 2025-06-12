@@ -19,3 +19,5 @@ CODE SAMPLES:
 cnn_classification/ – CNN-based image classification example using Chest X-ray dataset (binary classification: normal vs pneumonia)
 
 detectron2_segmentation/ – Instance segmentation pipeline using Detectron2 (applied to biomedical imagery or sample annotated masks)
+
+Chest X-ray dataset - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=download 
